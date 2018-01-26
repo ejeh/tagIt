@@ -10,7 +10,7 @@ This is the server for the crowed sourcing application tagIt
 * Run `npm install` to install the node packages
 
 ## Run
-To start the service `NODE_ENV=development node server.js` or just `npm start`
+To start the service `npm start`
 
 ## Contributors
 [Sotaya Yakubu](https://github.com/Rootex)
