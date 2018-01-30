@@ -19,4 +19,4 @@ To start the service `npm start`
 
 ## Contributors
 [Sotaya Yakubu](https://github.com/Rootex)
-[Godfey Ejeh]
+[Godfey Ejeh](https://github.com/xcoblingbling)
